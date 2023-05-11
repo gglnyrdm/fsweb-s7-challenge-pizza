@@ -1,0 +1,104 @@
+.tum-sayfa {
+    padding: 2% 30%;
+}
+
+
+
+.header {
+    text-align: center;
+    background-color: #CE2829;
+    padding:1rem 3rem;
+    color: #FAF7F2;
+    margin-top: 6rem;
+}
+
+#formBaslik {
+    max-width: 10%;
+}
+
+.ana-link {
+    color: #FAF7F2;
+    text-decoration: none;
+}
+
+.pizza-link {
+    color: #FAF7F2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link-class {
+    text-align: left;
+    font-family: 'Barlow', serif;
+    margin-top: 2.2rem;
+    margin-bottom: 2px;
+}
+
+.pizza-adi {
+    margin-top: 1rem;
+    font-family: 'Barlow', serif;
+    font-weight: bold;
+    color: #5F5F5F;
+}
+
+.fiyat {
+    font-family: 'Barlow', serif;
+    margin-top: 2rem; 
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.aciklama {
+    color: #5F5F5F;
+    font-family: 'Barlow', serif;
+}
+
+.boyut-hamur {
+    display: flex;
+    text-align: left;
+    margin-top: 3rem;
+}
+
+.hamur {
+    font-family: 'Barlow', serif;
+    font-weight: bold;
+    color:#292929
+}
+
+.boyut {
+    margin-left: 8rem;
+    font-family: 'Barlow', serif;
+    
+}
+
+.ek-malzeme-bolum {
+    font-family: 'Barlow', serif;
+    
+}
+
+.ek-malzemeler {
+    font-weight: bold;
+    color: #292929;
+}
+
+.ek-aciklama {
+    color: #5F5F5F;
+}
+
+.malzeme-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    margin-top: 3rem;
+    font-weight: bold;
+    color: #5F5F5F;
+
+}
+
+.siparis-notu {
+    margin-top: 3rem;
+    font-family: 'Barlow', serif;
+    color: #292929;
+    font-weight: boldon;
+
+}
